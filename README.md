@@ -3,7 +3,7 @@
 
 This project implements a simplified Convolutional Neural Network (CNN) from scratch using **only NumPy**, without relying on deep learning libraries like TensorFlow or PyTorch.
 
-The goal is to train a model to classify handwritten digits (0–9) from the [MNIST dataset](http://yann.lecun.com/exdb/mnist/).
+The goal is to train a model to classify handwritten digits (0–9) from the MNIST dataset.
 
 
 ###  Dataset
